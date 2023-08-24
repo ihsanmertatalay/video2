@@ -6,7 +6,7 @@ let options =
     // Pass your App ID here.
     appId: 'acec74e5063744bfa5d5ac184d1fa4b3',
     // Set the channel name.
-    channel: randomString,
+    channel: "1",
     // Pass your temp token here.
     token: null,
     // Set the user ID.
