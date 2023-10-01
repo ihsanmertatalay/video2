@@ -5,7 +5,7 @@ import Dinle from "./Dinle.vue";
 import Sor from "./Sor.vue";
 import Cevapla from "./Cevapla.vue";
 import Home from "./Home.vue";
-import oldHome from "./oldHome.vue";
+import oldHome from "./OldHome.vue";
 import Login from "./Login.vue";
 import Admin from "./Admin.vue";
 
