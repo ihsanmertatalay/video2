@@ -107,7 +107,7 @@ import { useRouter, useRoute, RouterView } from "vue-router";
 const router = useRouter();
 const route = useRoute();
 const { id } = route.params;
-const Apiurl = "http://localhost:3000";
+const Apiurl = "https://anlat-iake.onrender.com";
 
 const myRooms = ref([]);
 const myuser = ref({

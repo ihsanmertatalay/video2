@@ -26,7 +26,7 @@ import { useRouter, useRoute, RouterView } from "vue-router";
 import Navbar from "./components/Navbar.vue";
 import MyVideo from "./components/MyVideo.vue";
 
-const Apiurl = "http://localhost:3000";
+const Apiurl = "https://anlat-iake.onrender.com";
 const myuser = ref([]);
 const router = useRouter();
 const route = useRoute();

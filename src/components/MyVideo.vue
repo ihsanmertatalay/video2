@@ -122,7 +122,7 @@ const $toast = useToast();
 const router = useRouter();
 const route = useRoute();
 const { id } = route.params;
-const Apiurl = "http://localhost:3000";
+const Apiurl = "https://anlat-iake.onrender.com";
 const waiting = ref(true)
 
 const myuser = ref({

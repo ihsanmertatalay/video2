@@ -23,7 +23,7 @@ import { useToast } from 'vue-toast-notification';
 import 'vue-toast-notification/dist/theme-sugar.css';
 const $toast = useToast();
 const router = useRouter();
-const Apiurl = "http://localhost:3000";
+const Apiurl = "https://anlat-iake.onrender.com";
 const users = ref([]);
 const name = ref("");
 const password = ref("");

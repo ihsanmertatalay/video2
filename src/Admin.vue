@@ -42,7 +42,7 @@
     import { ref, onMounted, computed } from "vue";
 import { useRouter, useRoute, RouterView } from "vue-router";
 
-const Apiurl = "http://localhost:3000";
+const Apiurl = "https://anlat-iake.onrender.com";
 const users = ref([]);
 
 async function getUsers() {
